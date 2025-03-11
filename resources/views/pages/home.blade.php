@@ -694,7 +694,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-5" >
+                <div class="col-md-6" >
                    @if(session()->has('message'))
                         <div class="alert alert-success alert-dismissible fade show" role="alert">
                             {{ session()->get('message') }}
@@ -731,13 +731,3 @@
     </main>
 @endsection
 
-@section('scripts')
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        @if(session('success'))
-            var successModal = new bootstrap.Modal(document.getElementById('successModal'));
-            successModal.show();
-        @endif
-    });
-</script>
-@endsection
