@@ -536,7 +536,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2 class="resourceHeading">Our Treatment Packages</h2>
-                                    <p>Updated on August 10,2024</p>
+                                    <p class="resourceDate">Updated on August 10,2024</p>
                                 </div>
                                 <div class="col-md-2" style="display: flex;justify-content: center;">
                                     <img src="./assets/img/download.png" style="width: auto;">
@@ -554,7 +554,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2 class="resourceHeading">Our Treatment Packages</h2>
-                                    <p>Updated on August 10,2024</p>
+                                    <p class="resourceDate">Updated on August 10,2024</p>
                                 </div>
                                 <div class="col-md-2" style="display: flex;justify-content: center;">
                                     <img src="./assets/img/download.png" style="width: auto;">
@@ -572,7 +572,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2 class="resourceHeading">Our Treatment Packages</h2>
-                                    <p>Updated on August 10,2024</p>
+                                    <p class="resourceDate">Updated on August 10,2024</p>
                                 </div>
                                 <div class="col-md-2" style="display: flex;justify-content: center;">
                                     <img src="./assets/img/download.png" style="width: auto;">
@@ -590,7 +590,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2 class="resourceHeading">Our Treatment Packages</h2>
-                                    <p>Updated on August 10,2024</p>
+                                    <p class="resourceDate">Updated on August 10,2024</p>
                                 </div>
                                 <div class="col-md-2" style="display: flex;justify-content: center;">
                                     <img src="./assets/img/download.png" style="width: auto;">
@@ -608,7 +608,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2 class="resourceHeading">Our Treatment Packages</h2>
-                                    <p>Updated on August 10,2024</p>
+                                    <p class="resourceDate">Updated on August 10,2024</p>
                                 </div>
                                 <div class="col-md-2" style="display: flex;justify-content: center;">
                                     <img src="./assets/img/download.png" style="width: auto;">
@@ -626,7 +626,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2 class="resourceHeading">Our Treatment Packages</h2>
-                                    <p>Updated on August 10,2024</p>
+                                    <p class="resourceDate">Updated on August 10,2024</p>
                                 </div>
                                 <div class="col-md-2" style="display: flex;justify-content: center;">
                                     <img src="./assets/img/download.png" style="width: auto;">

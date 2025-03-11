@@ -1093,4 +1093,10 @@
     padding-top: 65px;
     padding-bottom: 65px;
   }
+  .resourceHeading{
+    text-align: center;
+  }
+  .resourceDate {
+    text-align: center;
+  }
 } 
